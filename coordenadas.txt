@@ -1,0 +1,15 @@
+Coordenadas do certificado padrão:
+
+Nome: 1048, 853;
+
+Curso: 1094, 990;
+
+Certificado: 1450, 1093;
+
+dataInicio:744, 1805;
+
+dataFim:735, 1955;
+
+cargaHoraria: 1501, 1225;
+
+dataemissão:2181, 1926;
